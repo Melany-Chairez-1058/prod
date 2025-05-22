@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Destello lunar",
+      "precio": 700.00,
+      "descuento": 10.00,
+      "imagen": "https://raw.githubusercontent.com/Melany-Chairez-1058/ios_1/refs/heads/main/floresm.jpg",
+      "descripcion": "Ramo Natural,Colores deslumbrantes, ideal para expresar amor y pasión."
+    },
+    {
+      "id": 2,
+      "nombre": "Luz de Verano",
+      "precio": 850.00,
+      "descuento": 15.00,
+      "imagen": "https://raw.githubusercontent.com/Melany-Chairez-1058/ios_1/refs/heads/main/floream.jpg",
+      "descripcion": "Elegante combinación de lirios blancos y rosas rosadas en un jarrón de vidrio."
+    },
+    {
+      "id": 3,
+      "nombre": "Delirio Pastel",
+      "precio": 950.00,
+      "descuento": 20.00,
+      "imagen": "https://raw.githubusercontent.com/Melany-Chairez-1058/floreria_imagenes_app_flutter/refs/heads/main/5.jpg",
+      "descripcion": "Caja premium con 15 tulipanes de colores surtidos, perfecta para alegrar cualquier ocasión."
+    }
+  ]
+}
